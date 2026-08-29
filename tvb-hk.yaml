@@ -1,7 +1,6 @@
 payload:
-    - +.hk
-    - +.imgur.com
     - +.tvb.com
+    - +.imgur.com
     - +.mytvsuper.com
     - +.mytvsuperlimited.hb.omtrdc.net
     - +.mytvsuperlimited.sc.omtrdc.net
@@ -13,7 +12,6 @@ payload:
     - +.nowtv100
     - +.viu.tv
     - +.viu.com
-    - +.viutv
     - +.viu.now.com
     - +.goallpayx.com
     - +.oss-cn-hongkong.aliyuncs.com
@@ -87,4 +85,4 @@ payload:
     - +.rthk.hk
     - +.rthk.org.hk
     - +.fantv.hk
-    - +.,hkopentv.com
+    - +.hkopentv.com
